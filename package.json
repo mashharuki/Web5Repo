@@ -1,0 +1,12 @@
+{
+  "name": "Web5Repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "chat-app": "pnpm -F \"chat-app\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

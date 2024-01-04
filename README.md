@@ -1,2 +1,14 @@
 # Web5Repo
 Web5SDKを調査・学習するためのリポジトリです。
+
+# WEB5 SDKとは
+
+TBDが開発するVC・DID周りの機能を提供するライブラリ。
+
+### 参考文献
+1. [Web5 Docs](https://developer.tbd.website/docs/)
+2. [Web5 Docs - Build a Chat App](https://developer.tbd.website/docs/web5/build/apps/dinger-tutorial)
+3. [Chat App - CodeSandbox](https://codesandbox.io/p/devbox/dinger-completed-2zgngn?file=%2Fpackage.json%3A16%2C22)
+4. [Web5 Docs - Build a ToDo App](https://developer.tbd.website/docs/web5/build/apps/todo-app-tutorial)
+5. [Web5 Docs - Build a Shared Todo App](https://developer.tbd.website/docs/web5/build/apps/shared-todo-app/)
+6. [Web5 Docs - Build a Book Review App](https://developer.tbd.website/docs/web5/build/apps/book-reviews-tutorial)
