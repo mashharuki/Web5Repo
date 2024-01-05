@@ -32,3 +32,4 @@ DID関連のデータを保管するデータストレージ(TBDが定義した�
 8. [SSI Service Playground](https://ssi.benri.io/)
 9. [Self Sovereign Identity (SSI) Service API Run](https://developer.tbd.website/docs/ssi/run-ssi-service)
 10. [【GitHub】- SSI Service SourceCode](https://github.com/TBD54566975/ssi-service)
+11. [SSI Service API (0.0.3) - Docs](https://developer.tbd.website/docs/apis/ssi-service/)
