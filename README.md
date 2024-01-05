@@ -30,3 +30,5 @@ DID関連のデータを保管するデータストレージ(TBDが定義した�
 6. [Web5 Docs - Build a Book Review App](https://developer.tbd.website/docs/web5/build/apps/book-reviews-tutorial)
 7. [Web5 Docs - Protocols](https://developer.tbd.website/docs/web5/learn/protocols)
 8. [SSI Service Playground](https://ssi.benri.io/)
+9. [Self Sovereign Identity (SSI) Service API Run](https://developer.tbd.website/docs/ssi/run-ssi-service)
+10. [【GitHub】- SSI Service SourceCode](https://github.com/TBD54566975/ssi-service)
