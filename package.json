@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "chat-app": "pnpm -F \"chat-app\""
+    "chat-app": "pnpm -F \"chat-app\"",
+    "quickstart": "pnpm -F \"quickstart\""
   },
   "keywords": [],
   "author": "",

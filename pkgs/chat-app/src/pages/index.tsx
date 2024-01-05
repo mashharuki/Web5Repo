@@ -105,7 +105,7 @@ export default function Home() {
    * @param web 
    * @returns 
    */
-  const queryForProtocol = async (web: Web5) => {
+  const queryForProtocol = async (web5: Web5) => {
     return await web5!.dwn.protocols.query({
       message: {
         filter: {
