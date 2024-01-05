@@ -13,6 +13,14 @@ DID関連のデータを保管するデータストレージ(TBDが定義した�
 
 共通してデータをやり取りするためにアプリごとに定義する企画
 
+## VCに必要な要素
+
+- Type
+- Issuer
+- Subject
+- expirationDate
+- data
+
 ### 参考文献
 1. [Web5 Docs](https://developer.tbd.website/docs/)
 2. [Web5 Docs - Build a Chat App](https://developer.tbd.website/docs/web5/build/apps/dinger-tutorial)
