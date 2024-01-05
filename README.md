@@ -29,3 +29,4 @@ DID関連のデータを保管するデータストレージ(TBDが定義した�
 5. [Web5 Docs - Build a Shared Todo App](https://developer.tbd.website/docs/web5/build/apps/shared-todo-app/)
 6. [Web5 Docs - Build a Book Review App](https://developer.tbd.website/docs/web5/build/apps/book-reviews-tutorial)
 7. [Web5 Docs - Protocols](https://developer.tbd.website/docs/web5/learn/protocols)
+8. [SSI Service Playground](https://ssi.benri.io/)
